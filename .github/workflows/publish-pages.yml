@@ -16,7 +16,7 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     env:
-      PUBLISH_DIR: pages-site
+      PUBLISH_DIR: ../pages-site
     steps:
       - name: Checkout source
         uses: actions/checkout@v4
