@@ -1,4 +1,7 @@
 ### 基于Phaser的小游戏集
+
+站点地址：https://ceenware.github.io/product-app-cocos-games-collection/
+
 这是一个基于Phaser的小游戏集，目的是方便大家学习Phaser。大家也可以访问Phaser小站的官方网站：[http://www.phaser-china.com/](http://www.phaser-china.com) 
 
 ### 源码
@@ -112,4 +115,3 @@
 
 ### 许可
 MIT 许可证
-
